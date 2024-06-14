@@ -1,0 +1,5 @@
+langchain
+sentence-transformers
+chromadb
+langchain_community
+gpt4all
